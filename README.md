@@ -65,25 +65,7 @@ Belajar membuat sistem prediksi kelulusan mahasiswa menggunakan algoritma Decisi
 
 ## 📌 Teknologi yang Digunakan
 - **Backend:** Node.js, Express.js, MongoDB
-- **Frontend:** React.js
 - **Algoritma:** Decision Tree C4.5
-
----
-
-## 🤝 Kontribusi
-Jika ingin berkontribusi:
-1. Fork repository ini
-2. Buat branch baru (`git checkout -b fitur-baru`)
-3. Commit perubahan (`git commit -m 'Menambahkan fitur baru'`)
-4. Push ke branch (`git push origin fitur-baru`)
-5. Buat **Pull Request**
-
----
-
-## 📞 Kontak
-Jika ada pertanyaan atau ingin berdiskusi, hubungi:
-- **Email:** your.email@example.com
-- **GitHub:** [your-github](https://github.com/username)
 
 ---
 
